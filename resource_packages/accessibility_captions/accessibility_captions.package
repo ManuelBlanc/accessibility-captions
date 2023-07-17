@@ -1,0 +1,11 @@
+mod = [
+    "accessibility_captions"
+]
+
+package = [
+    "resource_packages/accessibility_captions/accessibility_captions"
+]
+
+lua = [
+    "scripts/mods/accessibility_captions/*"
+]
